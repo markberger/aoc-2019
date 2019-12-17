@@ -1,0 +1,6 @@
+[package]
+name = "aoc05"
+version = "0.1.0"
+authors = ["Mark J. Berger <git@markjberger.com>"]
+
+[dependencies]
